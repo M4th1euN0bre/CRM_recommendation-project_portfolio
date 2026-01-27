@@ -1,0 +1,6 @@
+segment,taille,objectif,action,kpi
+Dormants,2352,Réactivation,"Campagne win-back, promotions ciblées",Taux de réactivation
+Occasionnels,1461,Augmenter la fréquence,"Offres limitées, reminders",Fréquence d'achat
+VIP,1330,Fidélisation premium,"Accès prioritaire, offres exclusives, bundles VIP",Taux de réachat / panier moyen
+Fidèles,714,Montée en gamme,"Cross-sell, recommandations personnalisées",Upsell rate
+Nouveaux,21,Onboarding,"Welcome pack, recommandations initiales",Conversion 2e achat
