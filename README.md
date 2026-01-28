@@ -97,7 +97,7 @@ Une application interactive qui permet de :
 - Générer des recommandations
 - Comparer appétence vs optimisation business
 
-Pour lancer l'application, rien de plus simple, il suffit d'écrire dans le terminal : src/app/streamlit_app.py
+Pour lancer l'application, rien de plus simple, il suffit d'écrire dans le terminal : streamlit run src/app/streamlit_app.py  
 
 ---
 
